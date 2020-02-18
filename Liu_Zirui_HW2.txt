@@ -1,0 +1,2 @@
+https://github.com/warai-0toko/rottenpotatoes-rails-intro
+https://vast-basin-86117.herokuapp.com/ 
